@@ -46,7 +46,7 @@ def function(email,passw,i):
 	return False
 
 print('\n---------- Welcome To Facebook BruteForce ----------\n')
-file=open('passwords.py','r')
+file=open('passwords.py')
 
 email=input('Enter Email/Username : ')
 
